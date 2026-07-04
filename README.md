@@ -2,25 +2,19 @@
 
 ## 📱 Shorts Demo
 
-[![Shorts Title](https://img.youtube.com/vi/vEPapz3oRa9wA9BB/0.jpg)](https://www.youtube.com/shorts/vEPapz3oRa9wA9BB)
+[![Shorts Title](https://img.youtube.com/vi/hyoC_SiaHe/0.jpg)](https://www.youtube.com/shorts/hyoC_SiaHe)
 
-[![Shorts Title](https://img.youtube.com/vi/ZJQ-dg6mjosDP_ae/0.jpg)](https://www.youtube.com/shorts/ZJQ-dg6mjosDP_ae)
+[![Shorts Title](https://img.youtube.com/vi/PWOEoLga8uA/0.jpg)](https://www.youtube.com/shorts/PWOEoLga8uA)
 
 [![Shorts Title](https://img.youtube.com/vi/8RD862T9IHc/0.jpg)](https://www.youtube.com/shorts/8RD862T9IHc)
 
 
 ## My diy wordclock kit
 
-All you need to do is secure these three plates together using M3 screws and nuts
-
-<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/5d72cbbc-53f1-4989-a0c1-c3fdf01e3efe" />
-
 
 ### PCBA
-Schematic
-<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/965dc56d-8403-4188-b90e-9459b5117d90" />
+
 <img width="1724" height="928" alt="image" src="https://github.com/user-attachments/assets/2f0925e6-0087-4530-a269-b709f25b3728" />
-<img width="1724" height="928" alt="image" src="https://github.com/user-attachments/assets/b95cf339-7d1c-4f71-8dff-7c99862ccfd5" />
 
 ### Support board
 
@@ -29,6 +23,10 @@ Schematic
 ### Silkscreen board
 
 <img width="851" height="687" alt="image" src="https://github.com/user-attachments/assets/bf9fe95b-900c-4ca2-91c3-eb5cdfa17e55" />
+
+### All board
+All you need to do is secure these three plates together using M3 screws and nuts
+<img width="1672" height="869" alt="wordclock1" src="https://github.com/user-attachments/assets/4b58390f-af39-47d0-871f-42304ef1497d" />
 
 
 ---
