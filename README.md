@@ -2,11 +2,12 @@
 
 ## 📱 Shorts Demo
 
-[![Shorts Title](https://img.youtube.com/vi/hyoC_SiaHe/0.jpg)](https://www.youtube.com/shorts/hyoC_SiaHe)
+[![Shorts Title](https://img.youtube.com/vi/J9kiV41EB4cvMGBV/0.jpg)](https://www.youtube.com/shorts/J9kiV41EB4cvMGBV)
 
 [![Shorts Title](https://img.youtube.com/vi/PWOEoLga8uA/0.jpg)](https://www.youtube.com/shorts/PWOEoLga8uA)
 
 [![Shorts Title](https://img.youtube.com/vi/8RD862T9IHc/0.jpg)](https://www.youtube.com/shorts/8RD862T9IHc)
+
 
 
 ## My diy wordclock kit
@@ -15,6 +16,8 @@
 ### PCBA
 
 <img width="1724" height="928" alt="image" src="https://github.com/user-attachments/assets/2f0925e6-0087-4530-a269-b709f25b3728" />
+<img width="1724" height="928" alt="image" src="https://github.com/user-attachments/assets/ac944853-e4ca-424c-90ef-cbd4e984fa4c" />
+
 
 ### Support board
 
@@ -26,6 +29,7 @@
 
 ### All board
 All you need to do is secure these three plates together using M3 screws and nuts
+
 <img width="1672" height="869" alt="wordclock1" src="https://github.com/user-attachments/assets/4b58390f-af39-47d0-871f-42304ef1497d" />
 
 
