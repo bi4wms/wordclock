@@ -32,6 +32,13 @@ All you need to do is secure these three plates together using M3 screws and nut
 <img width="1672" height="869" alt="wordclock1" src="https://github.com/user-attachments/assets/4b58390f-af39-47d0-871f-42304ef1497d" />
 
 
+## 📖 Full Build Guide
+
+For detailed assembly instructions, please visit:
+
+[DIY Modular ESP Word Clock Hardware Platform on Instructables](https://www.instructables.com/DIY-Modular-ESP-Word-Clock-Hardware-Platform/)
+
+
 ---
 <a href="https://www.buymeacoffee.com/bi4wms" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
