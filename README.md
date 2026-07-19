@@ -38,7 +38,8 @@ For detailed assembly instructions, please visit:
 
 [DIY Modular ESP Word Clock Hardware Platform on Instructables](https://www.instructables.com/DIY-Modular-ESP-Word-Clock-Hardware-Platform/)
 
-[![Buy on Tindie](https://img.shields.io/badge/Buy%20on-Tindie-green.svg)](https://www.tindie.com/products/pinuoelec/diy-modular-esp-word-clock-hardware-platform/)
+
+If you want to skip the sourcing and soldering puzzle, I have made the fully verified kits and pre-assembled boards available in my Tindie Shop.
 
 <a href="https://www.tindie.com/products/pinuoelec/diy-modular-esp-word-clock-hardware-platform/"><img src="https://img.shields.io/badge/Buy%20on-Tindie-green.svg?style=for-the-badge" alt="Buy on Tindie" height="100"></a>
 
