@@ -38,6 +38,7 @@ For detailed assembly instructions, please visit:
 
 [DIY Modular ESP Word Clock Hardware Platform on Instructables](https://www.instructables.com/DIY-Modular-ESP-Word-Clock-Hardware-Platform/)
 
+[![Buy on Tindie](https://img.shields.io/badge/Buy%20on-Tindie-green.svg)](https://www.tindie.com/products/pinuoelec/diy-modular-esp-word-clock-hardware-platform/)
 
 ---
 <a href="https://www.buymeacoffee.com/bi4wms" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
