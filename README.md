@@ -40,7 +40,7 @@ For detailed assembly instructions, please visit:
 
 [![Buy on Tindie](https://img.shields.io/badge/Buy%20on-Tindie-green.svg)](https://www.tindie.com/products/pinuoelec/diy-modular-esp-word-clock-hardware-platform/)
 
-<a href="https://www.tindie.com/products/pinuoelec/diy-modular-esp-word-clock-hardware-platform/"><img src="https://img.shields.io/badge/Buy%20on-Tindie-green.svg?style=for-the-badge" alt="Buy on Tindie" height="60"></a>
+<a href="https://www.tindie.com/products/pinuoelec/diy-modular-esp-word-clock-hardware-platform/"><img src="https://img.shields.io/badge/Buy%20on-Tindie-green.svg?style=for-the-badge" alt="Buy on Tindie" height="100"></a>
 
 ---
 <a href="https://www.buymeacoffee.com/bi4wms" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
